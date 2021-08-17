@@ -5,7 +5,7 @@
 .announcements {
     display: flex;
     justify-content: center;
-    background-color: rgba(0, 225, 255, 0.966);
+    background-color: rgb(41, 9, 44);
     margin-bottom: 32px;
 }
 .announcements span {
@@ -18,7 +18,7 @@
     font-weight: 500;
 }
 a {
-    color: black;
+    color: rgb(19, 185, 108);
 }
 .left-right-sections {
     display: flex;
@@ -26,13 +26,13 @@ a {
 }
 .left-right-sections .text {
     width: 50%;
-    color: #575757;
+    color: #e60404;
     padding: 32px 48px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 225, 255, 0.966);
+    background-color: rgba(56, 6, 56, 0.966);
 }
 .text h3 {
     font-weight: 400;
@@ -49,7 +49,7 @@ a {
     transition: all 0.2s ease;
 }
 .text .cta:hover {
-    background-color: rgba(0, 255, 234, 0.966);
+    background-color: rgb(157, 255, 0);
 }
 .left-right-sections .image {
     width: 50%;
